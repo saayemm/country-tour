@@ -29,7 +29,7 @@ export default function Countries() {
         }
       </div>
        
-        <div className="border-2 border-orange-600 p-2 m-4">
+        <div className="border-2 border-orange-500 p-2 m-4">
           <h3 className="text-2xl">Visited Countries <span className="text-green-700">{visitedCountries.length}</span></h3>
           <ul>
             {
